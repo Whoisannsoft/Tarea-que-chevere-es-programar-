@@ -6,3 +6,10 @@
     margin: 0;
     padding: 0;
 }
+
+header {
+    background-color: #ff9edf;
+    color: #8b3257;
+    text-align: center;
+    padding: 10px;
+}
