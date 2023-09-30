@@ -17,3 +17,9 @@ nav {
     background-color: #5d173a;
     text-align: center;
 }  
+
+nav a {
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 20px;
+}
