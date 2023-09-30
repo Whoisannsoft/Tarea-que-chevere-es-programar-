@@ -58,3 +58,6 @@ input[type="submit"] {
     border: none;
     cursor: pointer;
 }
+input[type="submit"]:hover {
+    background-color: #e6de87;
+}
