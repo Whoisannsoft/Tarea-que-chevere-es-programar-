@@ -23,3 +23,9 @@ nav a {
     text-decoration: none;
     padding: 10px 20px;
 }
+ 
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
